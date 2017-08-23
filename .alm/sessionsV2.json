@@ -1,0 +1,40 @@
+{
+  "sessions": [
+    {
+      "id": "76525058-4cf7-494c-8d61-805b007f944b",
+      "tabLayout": {
+        "type": "stack",
+        "width": 100,
+        "height": 100,
+        "tabs": [
+          {
+            "id": "2b9250da-1b4f-48fd-8485-ea30a738216f",
+            "relativeUrl": "file://./usage.py",
+            "additionalData": null
+          },
+          {
+            "id": "7e4d2f52-3299-42c9-aa98-918372d5017a",
+            "relativeUrl": "file://.npmignore",
+            "additionalData": null
+          },
+          {
+            "id": "2bd9dfdc-4bb5-4566-9392-52a3730c07ba",
+            "relativeUrl": "file://./LICENSE.txt",
+            "additionalData": null
+          },
+          {
+            "id": "54214782-0d29-4ef7-8aac-4c7314c94cb5",
+            "relativeUrl": "file://./README.md",
+            "additionalData": null
+          }
+        ],
+        "subItems": [],
+        "activeItemIndex": 0
+      },
+      "lastUsed": 1503474939946,
+      "errorsExpanded": false,
+      "fileTreeExpanded": true,
+      "selectedTabId": "54214782-0d29-4ef7-8aac-4c7314c94cb5"
+    }
+  ]
+}
